@@ -46,9 +46,9 @@ This project is licensed under the CC-BY-4.0 License - see the LICENSE.md file f
 ### Checklist for setting an online repository 
 
 - [ ] Add a README file
-- [ ] Add a [CONTRIBUTING](CONTRIBUTING.md) file
-- [ ] Add a [LICENSE](LICENSE.md)
-- [ ] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
+- [x] Add a [CONTRIBUTING](CONTRIBUTING.md) file
+- [x] Add a [LICENSE](LICENSE.md)
+- [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
 - [ ] Install [all-contributors](https://allcontributors.org/) bot
 - [ ] .gitignore file (choose from a template)
 - [ ] Issue templates
@@ -61,6 +61,15 @@ This project is licensed under the CC-BY-4.0 License - see the LICENSE.md file f
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
