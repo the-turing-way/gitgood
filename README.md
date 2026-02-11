@@ -78,6 +78,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://malvikasharan.github.io/"><img src="https://avatars.githubusercontent.com/u/5370471?v=4?s=100" width="100px;" alt="Malvika Sharan"/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#eventOrganizing-malvikasharan" title="Event Organizing">📋</a> <a href="#tutorial-malvikasharan" title="Tutorials">✅</a> <a href="#talk-malvikasharan" title="Talks">📢</a> <a href="#doc-malvikasharan" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/eirini-zormpa"><img src="https://avatars.githubusercontent.com/u/30151074?v=4?s=100" width="100px;" alt="Eirini Zormpa"/><br /><sub><b>Eirini Zormpa</b></sub></a><br /><a href="#eventOrganizing-eirini-zormpa" title="Event Organizing">📋</a> <a href="#tutorial-eirini-zormpa" title="Tutorials">✅</a> <a href="#talk-eirini-zormpa" title="Talks">📢</a> <a href="#doc-eirini-zormpa" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
