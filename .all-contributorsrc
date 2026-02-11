@@ -115,6 +115,18 @@
         "talk",
         "doc"
       ]
+    },
+    {
+      "login": "AyeshaDunk",
+      "name": "Ayesha Magill",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94903045?v=4",
+      "profile": "https://github.com/AyeshaDunk",
+      "contributions": [
+        "eventOrganizing",
+        "tutorial",
+        "talk",
+        "doc"
+      ]
     }
   ]
 }
