@@ -151,6 +151,18 @@
         "talk",
         "doc"
       ]
+    },
+    {
+      "login": "andrepiza",
+      "name": "andrepiza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45594148?v=4",
+      "profile": "https://github.com/andrepiza",
+      "contributions": [
+        "eventOrganizing",
+        "tutorial",
+        "talk",
+        "doc"
+      ]
     }
   ]
 }
