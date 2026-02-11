@@ -2,36 +2,49 @@
 
 ## About this Repository
 
+This repository contains slides and materials for delivering the 'Git Good' workshops, developed by contributors to [The Turing Way (TTW)](https://the-turing-way.start.page). 
 
+These workshops are designed for people with little to no experience of using Git or GitHub, to introduce you to how it can be used to collaborate on things other than code!
+
+These workshops are interactive and contain exercises where you comment on an issue and submit a pull request. **Exercises are completed in the accompanying repository https://github.com/the-turing-way/gitgood-practice-space.**
 
 ## Vision and Mission
 
-- **Vision:** A short phrase describing the future you are ultimately working towards (your final destination or desired end state).
-- **Mission:** A one-sentence statement describing the reason your organization or program exists (what you do + who/what you do this for).
+- **Vision:** To normalise reproducible, ethical, and collaborative research as the global standard, ensuring that data science is accessible to and beneficial for all of society.
+- **Mission:** To empower a diverse community of practitioners with the technical fluency to use GitHub as a catalyst for reproducible and collaborative research — translating the principles of The Turing Way into research workflows.
 
 ## About
 
-Motivation and background in a nutshell.
+Git and GitHub are often thought of as tools for computer scientists or 'people who write code'. At TTW, however, we believe this powerful methdology can be applied to many aspects of your research workflow to make it more transparent, reproducible and collaborative. 
 
-## Roadmap & Milestones
+The content of these workshops has evolved over the years, but the overall objective is for participants to be supported in collaborating on materials hosted by The Turing Way. 
 
-- **Goals:** Clear overview of overarching and short-term goals.
-- **Outcomes:** Description of expected results and deliverables.
+### Agenda for the [most recent workshop](./workshops/202603_OSHO/):
+
+- Part 1: What is Git & Github?
+- Exercise 1: Finding an Issue and contributing to a project
+    - You will practice: Using issues to contribute and document decisions
+- Part 2: What is open source?
+- Part 3: Using GitHub online and in the terminal (demo)
+- Exercise 2: Editing a file and making a Pull Request
+    - You will practice: Markdown; contributing, pull requests
+- Part 4: What can we make with Github? (Websites and Project Management)
+- Exercise 3 (take home): Make your own website
 
 ## The Team
 
-- **Members:** List of team members and their roles in the project.
-- **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
+- **Members:** These materials are managed by the [TTW Workshop Facilitators GitHub Team](https://github.com/orgs/the-turing-way/teams/workshop-facilitators)
+- The [Contributors](#contributors) listed below have prepared and presented versions of this workshop since 2022.
 
 ## Contributing
 
-- **Guidelines:** [Contribution Guidelines](link-to-guidelines) for contributors.
-- **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
-- **Resource Plans:** Details on available resources and recommended practices for the project team.
+- **How to contribute:** Please follow [TTW CONTRIBUTING](./CONTRIBUTING.md) - we welcome your input!
+- **Code of Conduct:** Interactions with this material are expected to follow [TTW CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md) to ensure a respectful project environment. A separate code of conduct may be in place for individual workshops; see [workshop presentation materials](./workshops/) for details.
+
 
 ## Licensing
 
-This project is licensed under the CC-BY-4.0 License - see the LICENSE.md file for details.
+This project is licensed under the CC-BY-4.0 License for documentation and MIT License for code - see the [LICENSE](./LICENSE.md) for details.
 
 ## Citing & Acknowledgement
 
@@ -40,25 +53,25 @@ This project is licensed under the CC-BY-4.0 License - see the LICENSE.md file f
 
 ## Contact
 
-- **Reach Out:** Contact details for questions, feedback, or ideas.
+- **Contact:** Contact information for presenters of individual workshops are available in their workshop materials (see the [workshops directory](./workshops/)).
 
 
 ### Checklist for setting an online repository 
 
-- [ ] Add a README file
+- [x] Add a README file
 - [x] Add a [CONTRIBUTING](CONTRIBUTING.md) file
 - [x] Add a [LICENSE](LICENSE.md)
 - [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
 - [x] Install [all-contributors](https://allcontributors.org/) bot
 - [x] .gitignore file (choose from a template)
 - [ ] Issue templates
-- [ ] Create a directory with files for project management (meetings, reports, proposals), communications, materials
+- [x] Create a directory with files for project management (meetings, reports, proposals), communications, materials
 - [ ] Connect repo with Zenodo
 - [ ] Add cff file for citation
 - [ ] Add badges
 
 
-## Contributors ✨
+## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
