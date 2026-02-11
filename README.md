@@ -76,6 +76,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://www.turing.ac.uk/people/research-associates/emma-karoune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt="Emma Karoune"/><br /><sub><b>Emma Karoune</b></sub></a><br /><a href="#eventOrganizing-ekaroune" title="Event Organizing">📋</a> <a href="#tutorial-ekaroune" title="Tutorials">✅</a> <a href="#talk-ekaroune" title="Talks">📢</a> <a href="#doc-ekaroune" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/GabinWK"><img src="https://avatars.githubusercontent.com/u/104582708?v=4?s=100" width="100px;" alt="GabinWK"/><br /><sub><b>GabinWK</b></sub></a><br /><a href="#eventOrganizing-GabinWK" title="Event Organizing">📋</a> <a href="#tutorial-GabinWK" title="Tutorials">✅</a> <a href="#talk-GabinWK" title="Talks">📢</a> <a href="#doc-GabinWK" title="Documentation">📖</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://malvikasharan.github.io/"><img src="https://avatars.githubusercontent.com/u/5370471?v=4?s=100" width="100px;" alt="Malvika Sharan"/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#eventOrganizing-malvikasharan" title="Event Organizing">📋</a> <a href="#tutorial-malvikasharan" title="Tutorials">✅</a> <a href="#talk-malvikasharan" title="Talks">📢</a> <a href="#doc-malvikasharan" title="Documentation">📖</a></td>
+    </tr>
   </tbody>
 </table>
 
