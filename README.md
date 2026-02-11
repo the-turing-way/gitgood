@@ -49,8 +49,8 @@ This project is licensed under the CC-BY-4.0 License - see the LICENSE.md file f
 - [x] Add a [CONTRIBUTING](CONTRIBUTING.md) file
 - [x] Add a [LICENSE](LICENSE.md)
 - [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
-- [ ] Install [all-contributors](https://allcontributors.org/) bot
-- [ ] .gitignore file (choose from a template)
+- [x] Install [all-contributors](https://allcontributors.org/) bot
+- [x] .gitignore file (choose from a template)
 - [ ] Issue templates
 - [ ] Create a directory with files for project management (meetings, reports, proposals), communications, materials
 - [ ] Connect repo with Zenodo
