@@ -64,7 +64,7 @@ This project is licensed under the CC-BY-4.0 License for documentation and MIT L
 - [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
 - [x] Install [all-contributors](https://allcontributors.org/) bot
 - [x] .gitignore file (choose from a template)
-- [ ] Issue templates
+- [x] Issue templates
 - [x] Create a directory with files for project management (meetings, reports, proposals), communications, materials
 - [ ] Connect repo with Zenodo
 - [ ] Add cff file for citation
