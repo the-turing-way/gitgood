@@ -5,6 +5,9 @@ private/*
 # OS dependent metadata files
 .DS_Store
 
+# OS dependent temporary lock files (e.g., ~$document.docx)
+~$*
+
 # Large, binary files
 # e.g. workshops/boost-research-reproducibility-binder/workshop-presentations/*pptx
 
