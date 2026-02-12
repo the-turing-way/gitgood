@@ -1,3 +1,5 @@
+This is The Turing Way Code of Conduct, downloaded from https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md at [this commit](https://github.com/the-turing-way/the-turing-way/commit/e1dea0e9ed92192afea612e1f0f9af79030fff53)
+
 # Code of Conduct
 
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
