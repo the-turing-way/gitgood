@@ -19,7 +19,7 @@ Git and GitHub are often thought of as tools for computer scientists or 'people 
 
 The content of these workshops has evolved over the years, but the overall objective is for participants to be supported in collaborating on materials hosted by The Turing Way. 
 
-### Agenda for the [most recent workshop](./workshops/202603_OSHO/):
+### Agenda for the [most recent workshop](./workshops/202602_OSHO/):
 
 - Part 1: What is Git & Github?
 - Exercise 1: Finding an Issue and contributing to a project
