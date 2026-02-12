@@ -7,7 +7,7 @@
 
 ## Housekeeping
 1. [This repo](https://github.com/the-turing-way/gitgood)
-1. [collaboration practice space](http://github.com/the-turing-way/gitgood-practice-space)
+1. [Practice space](http://github.com/the-turing-way/gitgood-practice-space)
 1. [McGill Faculty of Medicine and Health Sciences Code of Conduct](https://www.mcgill.ca/medhealthsci/about/our-vision-mission-values/code-conduct)
 1. [Sign up for a github account](http://github.com/signup)
 1. [Julia Pfarr "Git/Hub 101" at Mtl BrainHack 2026](https://julia-pfarr.github.io/git-gitlab_tutorial/)
