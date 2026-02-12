@@ -9,7 +9,7 @@
 1. [This repo](https://github.com/the-turing-way/gitgood)
 1. [Practice space](http://github.com/the-turing-way/gitgood-practice-space)
 1. [McGill Faculty of Medicine and Health Sciences Code of Conduct](https://www.mcgill.ca/medhealthsci/about/our-vision-mission-values/code-conduct)
-1. [Sign up for a github account](http://github.com/signup)
+1. [Sign up for a GitHub account](http://github.com/signup)
 1. [Julia Pfarr "Git/Hub 101" at Mtl BrainHack 2026](https://julia-pfarr.github.io/git-gitlab_tutorial/)
 1. [Kendra Oudyk "Intro to Git/GitHub" OSHO Feb 2025](https://youtu.be/JG5CsKrX0AI?si=rnF79sG9TODTS8JH)
 
@@ -34,13 +34,20 @@
 
 ## Part 4: GitHub pages and Project management
 1. [(Free) Jekyll themes](https://jekyllthemes.io/free)
+1. [RCM Cooperative website](http://rcmcooperative.com/)
+1. [OSR 2020 website](http://ohbm.github.io/osr2020/)
+1. [Open OxCIN website](https://open.oxcin.ox.ac.uk/pages/open-science/community/Open-WIN-Community/)
+1. [Climate Informatics 2024 conference website](http://alan-turing-institute.github.io/climate-informatics-2024/)
 1. [Apply a jekyll (remote) theme](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
-1. [Project management guidelines](https://docs.github.com/en/issues/planning-and-tracking-with-projects)
+1. [Project timeline example](https://github.com/the-turing-way/bookdash)
+1. [Project with sums example](https://github.com/orgs/rcmcooperative/projects/3)
 1. [Kanban example](https://github.com/orgs/the-turing-way/projects/9)
+1. [Project management tutorials](https://docs.github.com/en/issues/planning-and-tracking-with-projects)
+
 
 ## Closing
-1. Feedback form: [https://forms.gle/M7qsRtocbVYrd2Vc8](https://forms.gle/M7qsRtocbVYrd2Vc8)
-1. Book time with Cass: [https://calendar.app.google/k7za8eZ6Ffurq7JeA](https://calendar.app.google/k7za8eZ6Ffurq7JeA)
+1. [Feedback form](https://forms.gle/M7qsRtocbVYrd2Vc8)
+1. [Book time with Cass](https://calendar.app.google/k7za8eZ6Ffurq7JeA)
 
 
 ## More useful links!
